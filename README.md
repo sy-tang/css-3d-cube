@@ -8,5 +8,5 @@ CSS 3D Cube
 
 **Try out the demo**
 
-+ http://forcefront.github.io/css-3d-transform/3d-animated-cube.html
-+ http://forcefront.github.io/css-3d-transform/3d-cube.html
++ http://forcefront.github.io/css-3d-cube/3d-animated-cube.html
++ http://forcefront.github.io/css-3d-cube/3d-cube.html
